@@ -4843,8 +4843,8 @@ http://prod-ent-live-gm.jiocinema.com/hls/live/2105483/hd_akamai_androidmob_avc_
 #EXTINF:-1 tvg-id="762" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1718960176144.jpg" group-title="Big Boss",Big Boss 4K
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_bbhindi_day01/master.m3u8
 
-#EXTINF:-1 tvg-id="249" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg",DISNEY HD INDIA
+#EXTINF:-1 tvg-id="249" group-title="Animation" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/disney-channel-hd.gif",DISNEY HD INDIA
 https://iamranapk-com-wcc9.spidy.online/AB/play.m3u8?id=2546
 
-#EXTINF:-1 tvg-id="251" group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Hungama_TV.svg",HUNGAMA TV INDIA
+#EXTINF:-1 tvg-id="251" group-title="Animation" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.gif",HUNGAMA TV INDIA
 https://iamranapk-com-wcc9.spidy.online/AB/play.m3u8?id=251
