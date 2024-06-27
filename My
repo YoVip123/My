@@ -4920,3 +4920,9 @@ https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd|cookie:
 #EXTVLCOPT:http-user-agent=null
 #EXTHTTP:{"cookie":"hdntl=exp=1719551421~acl=%2f*~data=hdntl~hmac=30fce3662aea024d718a1c5fe3ec2190a026c55a0260b9432f48bcbdf080e692"}
 https://delta31tatasky.akamaized.net/out/i/57073.mpd|cookie:hdntl=exp=1719551421~acl=%2f*~data=hdntl~hmac=30fce3662aea024d718a1c5fe3ec2190a026c55a0260b9432f48bcbdf080e692
+
+#EXTINF:-1 tvg-id="474" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1718960176144.jpg" group-title="Big Boss",Big Boss OTT
+http://prod-ent-live-gm.jiocinema.com/hls/live/2105483/hd_akamai_androidmob_avc_24x7_bbhindi_day01/master.m3u8
+
+#EXTINF:-1 tvg-id="762" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1718960176144.jpg" group-title="Big Boss",Big Boss 4K
+https://prod-ent-live-gm.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_bbhindi_day01/master.m3u8
