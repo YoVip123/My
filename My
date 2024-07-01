@@ -21,6 +21,9 @@ https://iamranapk-com-wcc9.spidy.online/AB/play.m3u8?id=251
 #EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",HUNGAMA TV
 http://xtv.ooo:8080/773199/626227/150480
 
+#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BossBabyTV.jpeg",The Boss Baby
+http://xtv.ooo:8080/773199/626227/301508
+
 #EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/RFK1HXSZ/6b0e52164d7ca922b6701.jpg",DORAEMON 24/7 v1
 http://port.denver1769.in/Ply/tptv.php?id=58634
 #EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/FsYSkh9H/a02fa81a4e4373d798167.jpg",SHINCHAN 24/7 v1
@@ -45,6 +48,8 @@ http://port.denver1769.in/jazz.php?tv=11305
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonYLiv-",Sony SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="SonYLiv-",Sony SAB UK
+http://xtv.ooo:8080/773199/626227/66175
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonYLiv-",Sony PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonYLiv-",Sony MAX HD
