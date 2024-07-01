@@ -18,7 +18,7 @@ http://xtv.ooo:8080/773199/626227/167551
 #EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.gif",HUNGAMA TV INDIA
 https://iamranapk-com-wcc9.spidy.online/AB/play.m3u8?id=251
 
-#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",HUNGAMA TV
+#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/hungama-tv.gif",HUNGAMA TV
 http://xtv.ooo:8080/773199/626227/150480
 
 #EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BossBabyTV.jpeg",The Boss Baby
