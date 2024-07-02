@@ -6,10 +6,10 @@ http://prod-ent-live-gm.jiocinema.com/hls/live/2105483/hd_akamai_androidmob_avc_
 #EXTINF:-1 tvg-id="762" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1718960176144.jpg" group-title="Big Boss",Big Boss 4K
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_bbhindi_day01/master.m3u8
 
-#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/disney-channel-hd.gif",DISNEY HD
+#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",DISNEY HD
 https://iamranapk-com-wcc9.spidy.online/AB/play.m3u8?id=2546
 
-#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/disney-channel-hd.gif",DISNEY HD (Multi Audio)
+#EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",DISNEY HD (Multi Audio)
 https://yg51.000webhostapp.com/share.php?id=19741
 
 #EXTINF:-1 tvg-id="249" group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",DISNEY SD (Multi Audio)
