@@ -33,15 +33,15 @@ http://port.denver1769.in/Ply/tptv.php?id=16927
 #EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTCbjCNlQFBxn621rbUVUkOlWiaDvum9zcOA&usqp=CAU",Tom & Jerry 24/7 v2
 https://port.denver1769.in/oplx2.php?id=329247
 
-#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg",HUNGAMA TV v1
+#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v1
 https://port.denver1769.in/oplx2.php?id=150480
-#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg",HUNGAMA TV v2
+#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v2
 http://port.denver1769.in/Ply/tptv.php?id=11646
-#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg",HUNGAMA TV v3
+#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v3
 http://port.denver1769.in/j.php?tv=1094
-#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg",HUNGAMA TV v4
+#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v4
 http://port.denver1769.in/dd.php?tv=11305
-#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/x1P4kGjQ/a56b504e91219a0121d8b.jpg",HUNGAMA TV v5
+#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v5
 http://port.denver1769.in/jazz.php?tv=11305
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonYLiv-",SET HD
@@ -56,7 +56,7 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonYLiv-",Sony MAX 2
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg" group-title="SonYLiv-",Sony Kal
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonYLiv-",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonYLiv-",Sony YAY
 https://colorsscreen.com/SonYLiv-/master.m3u8?id=1000001971&amp;e=.m3u8|Referer=https://colorsscreen.com/SonYLiv-/
