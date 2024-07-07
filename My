@@ -35,8 +35,7 @@ http://port.denver1769.in/Ply/tptv.php?id=11646
 http://port.denver1769.in/j.php?tv=1094
 #EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v4
 http://port.denver1769.in/dd.php?tv=11305
-#EXTINF:-1 tvg-id="251" group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v5
-http://port.denver1769.in/jazz.php?tv=11305
+
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonYLiv-",SET HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
