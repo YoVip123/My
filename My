@@ -43,9 +43,6 @@ http://port.denver1769.in/dd.php?tv=11305
 http://xtv.ooo:8080/3116580700/0700/150480
 
 
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" group-title="SONYLIV-1",t.me/m3u_lovers
-https://t.me/m3u_lovers
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV-1",SET HD
 https://yuvraj.fun/sliv/index.m3u8?ch=SETHD&id=2011671
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV-1",Sony SAB HD
@@ -92,9 +89,11 @@ https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
 https://yuvraj.fun/sliv/index.m3u8?ch=ten4hd&id=2020589
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 5 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
+
+
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV-2",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.pnghttp://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV-2SONYLIV-2",SONY HDSONY SAB HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.pnghttp://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV-2",SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV-2",SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
