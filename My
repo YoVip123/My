@@ -43,103 +43,95 @@ http://port.denver1769.in/dd.php?tv=11305
 http://xtv.ooo:8080/3116580700/0700/150480
 
 
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonYLiv-",SET HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonYLiv-",Sony SAB HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="SonYLiv-",Sony SAB UK
-http://xtv.ooo:8080/773199/626227/66175
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="SonYLiv-",Sony SAB USA
-https://iamranapk-com-wcc9.spidy.online/AB/play.m3u8?id=1748
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonYLiv-",Sony PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonYLiv-",Sony MAX HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonYLiv-",Sony MAX 2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SonYLiv-",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonYLiv-",Sony YAY
-https://colorsscreen.com/SonYLiv-/master.m3u8?id=1000001971&amp;e=.m3u8|Referer=https://colorsscreen.com/SonYLiv-/
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonYLiv-",Sony Marathi
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonYLiv-",Sony AATH
-https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonYLiv-",Sony MAX
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonYLiv-",Sony WAH
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonYLiv-",Sony PIX HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonYLiv-",Sony BBC Earth HD
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 1
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 2
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 3
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 4
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 5
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonYLiv-",Sony  TEN 2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonYLiv-",Sony TEN 5 HD
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-
-
-
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonYLiv-2",SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonYLiv-2",Sony SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonYLiv-2",Sony PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonYLiv-2",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonYLiv-2",Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonYLiv-2",Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonYLiv-2",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonYLiv-2",Sony MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonYLiv-2",Sony WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonYLiv-2",Sony MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonYLiv-2",Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonYLiv-2",Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonYLiv-2",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonYLiv-2",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonYLiv-2",Sony Kal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BGwxHVB/IMG-20240315-140552-507.jpg" group-title="SONYLIV-1",t.me/m3u_lovers
+https://t.me/m3u_lovers
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV-1",SET HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SETHD&id=2011671
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV-1",Sony SAB HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SABHD&id=2011749
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV-1",Sony PAL
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyPalSD&id=2011741
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONYLIV-1",Sony YAY
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyYaySD&id=2011746
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONYLIV-1",Sony AATH
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyAathSD&id=2011641
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONYLIV-1",Sony Marathi
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMarathi&id=2011740
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV-1",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV-1",Sony BBC Earth HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyBBCEarthHD&id=2011907
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLIV-1",Sony PIX HD
+https://yuvraj.fun/sliv/index.m3u8?ch=PIXHD&id=2011748
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONYLIV-1",Sony WAH
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyWah&id=2011906
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONYLIV-1",Sony MAX
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxSD&id=2011745
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONYLIV-1",Sony MAX HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SonyMaxhd&id=2011670
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV-1",Sony MAX2
+https://yuvraj.fun/sliv/index.m3u8?ch=MAX2&id=2011908
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 1
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN1SD&id=2011739
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 2
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN2SD&id=2020590
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 3
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN3SD&id=2020592
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 4
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN4SD&id=2020437
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 5
+https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXSD&id=2020594
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 1 HD
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN1HD&id=2011747
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 2 HD
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN2HD&id=2020434
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 3 HD
+https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 4 HD
+https://yuvraj.fun/sliv/index.m3u8?ch=ten4hd&id=2020589
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 5 HD
+https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
+#EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="SONYLIV-2",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.pnghttp://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV-2SONYLIV-2",SONY HDSONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV-2",SONY MARATHI
+https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIV-2",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONYLIV-2",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIV-2",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIV-2",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="SONYLIV-2",SONY MAX
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONYLIV-2",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONYLIV-2",SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIV-2",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SONYLIV-2",SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SONYLIV-2",SONY TEN 1 HD
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SONYLIV-2",SONY TEN 2 HD
+https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SONYLIV-2",SONY TEN 3 HD
+https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SONYLIV-2",SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SONYLIV-2",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SONYLIV-2",SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SONYLIV-2",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SONYLIV-2",SONY TEN 4 SD
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.pnghttps://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="SONYLIV-2SONYLIV-2",SONY TEN 4 HDBBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
