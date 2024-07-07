@@ -89,3 +89,58 @@ https://yuvraj.fun/sliv/index.m3u8?ch=TEN3HD&id=2020591
 https://yuvraj.fun/sliv/index.m3u8?ch=ten4hd&id=2020589
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV-1",Sony TEN 5 HD
 https://yuvraj.fun/sliv/index.m3u8?ch=SONYSIXHD&id=2020593
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1rJPzKG/Zing.png" group-title="ZEE5-",Zing (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/thenayeemparvez.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6XJSZwc/Big-Magic.png" group-title="ZEE5-",Big Magic (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Big_Magic_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71YYWp6/Zee-TV-HD.png" group-title="ZEE5-",Zee TV HD (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/thenayeemparvez.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSpBFBS/tvHD.png" group-title="ZEE5-",&TV HD (And TV HD) (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/thenayeemparvez.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vL09gBt/Zee-Yuva.png" group-title="ZEE5-",Zee Yuva (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Yuva_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X88M1j0/Zee-Cafe-HD.png" group-title="ZEE5-",Zee Cafe HD (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Cafe_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6wVRvV0/Zee-Ganga.png" group-title="ZEE5-",Zee Ganga (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Ganga_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wWpLd15/Zee-Bangla-HD.png" group-title="ZEE5-",Zee Bangla HD (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/thenayeemparvez.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qxK1wPn/Zee-Anmol.png" group-title="ZEE5-",Zee Anmol (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/thenayeemparvez.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FwBz78r/Zee-Cinema-HD.png" group-title="ZEE5-",Zee Cinema HD (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/thenayeemparvez.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9pfdzZF/Zee-Cinemalu-HD.png" group-title="ZEE5-",Zee Cinemalu HD (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Cinemalu_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XDT4Nq/pictures-HD.png" group-title="ZEE5-",& Pictures HD (And Pictures HD) (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X8KjRMn/Zee-Talkies-HD.png" group-title="ZEE5-",Zee Talkies HD (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Talkies_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qbzpwgr/Zee-Bangla-Cinema.png" group-title="ZEE5-",Zee Bangla Cinema (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Bangla_Cinema_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY35BhF/Zee-Punjabi.png" group-title="ZEE5-",Zee Punjabi (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Punjabi_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQT3hvf/Zee-Anmol-Cinema.png" group-title="ZEE5-",Zee Anmol Cinema (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Anmol_Cinema_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/54mt9KC/Zee-Bollywood.png" group-title="ZEE5-",Zee Bollywood (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4jD00dS/Zee-Cinema.png" group-title="ZEE5-",Zee Cinema (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Cinema_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JBRGLZ4/pictures.png" group-title="ZEE5-",& Pictures (And Pictures) (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Pictures_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XCCz20X/Zee-Action.png" group-title="ZEE5-",Zee Action (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz5wbMF/Prive-HD.png" group-title="ZEE5-",& Prive HD (And Prive HD) (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/1228/kA18js.png" group-title="ZEE5-",& Flix HD (And Flix HD) (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Sanskar_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img923/8206/1fZT9k.png" group-title="ZEE5-",Zee TV (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_TV_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/4700/tIcqdt.png" group-title="ZEE5-",Zee Sarthak (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Sarthak_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/9307/oMitXa.png" group-title="ZEE5-",Zee Classic (Zee)
+https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
+
