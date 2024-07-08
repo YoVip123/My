@@ -15,14 +15,9 @@ https://saini099.github.io/PE/DisneyHD.m3u8
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY SD (AIRTEL)
 https://tgaadi-web.tech/portal.php?tv=156000
-#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY SD (TATA)
-https://play.denver1769.in/tp.mpd?id=114
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV
 http://xtv.ooo:8080/773199/626227/150480
-
-#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BossBabyTV.jpeg",The Boss Baby
-http://xtv.ooo:8080/773199/626227/301508
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png",Cartoon Network HD+
 http://xtv.ooo:8080/3116580700/0700/153154
@@ -45,6 +40,8 @@ http://xtv.ooo:8080/3116580700/0700/150480
 
 
 
+#EXTINF:-1 group-title="CARTOON- 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BossBabyTV.jpeg",The Boss Baby
+http://xtv.ooo:8080/773199/626227/301508
 #EXTINF:-1 group-title="CARTOON- 24/7" tvg-logo="https://i.postimg.cc/FsYSkh9H/a02fa81a4e4373d798167.jpg",SHINCHAN 24/7 v1
 http://port.denver1769.in/Ply/tptv.php?id=58625
 #EXTINF:-1 group-title="CARTOON- 24/7" tvg-logo="https://i.postimg.cc/FsYSkh9H/a02fa81a4e4373d798167.jpg",SHINCHAN 24/7 v2
