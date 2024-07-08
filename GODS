@@ -8,6 +8,10 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_
 http://port.denver1769.in/dd.php?tv=634
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD v1
 https://yg51.000webhostapp.com/share.php?id=19741
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",Disney HD v2
+http://port.denver1769.in/dd.php?tv=634
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",Disney HD v3
+https://saini099.github.io/PE/DisneyHD.m3u8
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png",DISNEY SD (Multi Audio)
 https://tgaadi-web.tech/portal.php?tv=156000
