@@ -346,3 +346,122 @@ https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Sarthak_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/img922/9307/oMitXa.png" group-title="ZEE5-",Zee Classic (Zee)
 https://jcdn.padmaflixtv.workers.dev/bpk-tv/Zee_Classic_MOB/Fallback/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=605
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National Geographic HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=605
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=137
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=137
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=413
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png",Nat Geo Wild HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=413
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=184
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",Nat Geo Wild
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=184
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=341
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png",Discovery HD World
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=341
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=219
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png",Discovery Channel
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=219
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=287
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",Animal Planet HD World
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=287
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=130
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png",Animal Planet
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=130
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=113
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png",Discovery Science
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=113
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=616
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png",History TV18 HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=616
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=172
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-745-j5l54bnc-v2/imageContent-745-j5l54bnc-m2.png",History TV18
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=172
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=460
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC Earth HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=460
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=158
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png",SONY BBC Earth
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=158
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=923
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-63764-kr1kzw28-v2/imageContent-63764-kr1kzw28-m2.png",TravelXP 4K HDR
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=923
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=126
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EPI_Thumbnail-v2/EPI_Thumbnail.png",EPIC
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=126
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=367
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FOXHD_Thumbnail-v2/FOXHD_Thumbnail.png",Star Life HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=367
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=480
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png",TLC HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=480
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=135
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png",TLC
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=135
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=136
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",GOOD TiMES
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=136
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=228
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",Discovery Turbo
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=228
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=484
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",Travelxp HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=484
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=55
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png",Travelxp
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=55
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=117
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-384-j5jpj9hc-v1/imageContent-384-j5jpj9hc-m1.png",Food Food
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=117
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=227
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",Fashion TV
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=227
