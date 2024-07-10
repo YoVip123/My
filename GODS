@@ -241,6 +241,26 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=599
 #EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",Romedy Now
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=174
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=788
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-id="788" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",Enterr10 Bangla
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=788
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=537
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-id="537" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",Jalsha Movies HD
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=537
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=254
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-id="254" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png",Zee Bangla Cinema
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=254
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=896
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-id="896" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v2/CLRBANG_Thumbnail.png",Colors Bangla Cinema
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=896
+
 
 
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV-1",SET HD
