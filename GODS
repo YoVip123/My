@@ -37,6 +37,8 @@ http://port.denver1769.in/j.php?tv=1094
 http://port.denver1769.in/dd.php?tv=11305
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v5
 http://xtv.ooo:8080/3116580700/0700/150480
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV v6
+http://bdix.proximitybd.xyz/vip.php?id=150480&e.m3u8
 
 
 
@@ -69,7 +71,8 @@ https://port.denver1769.in/oplx2.php?id=329247
 
 
 
-
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",StarGold HD
+http://bdix.proximitybd.xyz/vip.php?id=109959
 
 
 
