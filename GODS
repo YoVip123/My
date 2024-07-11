@@ -190,7 +190,7 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=64
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=1000
-#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Romance",Colors Cineplex Bollywood
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",Colors Cineplex Bollywood
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=1000
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -200,7 +200,7 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=1321
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=823
-#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="Regional Marathi",Goldmines
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png",Goldmines
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=823
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -210,7 +210,7 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=731
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=12
-#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="Regional Hindi",Zee Anmol Cinema 2
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" ,Zee Anmol Cinema 2
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=12
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
