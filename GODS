@@ -137,17 +137,17 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=727
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=267
-#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",&amp;pictures HD
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",&pictures HD
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=267
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=148
-#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",&amp;pictures
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",&pictures
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=148
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=1183
-#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",&amp;Xplor HD
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png",&Xplor HD
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=1183
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
