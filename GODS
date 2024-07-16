@@ -110,6 +110,10 @@ https://port.denver1769.in/oplx2.php?id=329247
 #EXTINF:-1 group-title="CARTOON- 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkXbTevh0Nyzr-nSlEdVyMvbSt2pVMDM7vk4dUZl3nw&s",MrBean FHD 24/7
 http://starshare.live:8080/live/Nick123/Nick123/147777.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=559
+#EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",SONY SAB
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=559
 
 
 #EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",StarGold HD
