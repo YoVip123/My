@@ -496,8 +496,6 @@ https://rolextv.asia:443/112233/112233/78280
 https://rolextv.asia:443/112233/112233/78281
 #EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png",IN | TS DISNEY CHANNEL FHD (HINDI)
 https://rolextv.asia:443/112233/112233/78282
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuQXPztvjIPd_gDZVnTYmy-Br1UH5OvYaK_K69el-9ME3.jpg",IN | TS CARTOON NETWORK HD+ (ENG)
-https://rolextv.asia:443/112233/112233/78287
 #EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuQXPztvjIPd_gDZVnTYmy-Br1UH5OvYaK_K69el-9ME3.jpg",IN | TS CARTOON NETWORK HD+ (HINDI)
 https://rolextv.asia:443/112233/112233/78288
 #EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC9KWdMoHmeouKa0VTvsbFK42RDgLpI-AXZr6cuSVD3Ch.jpg",IN | D2H HUNGAMA TV
@@ -522,13 +520,5 @@ https://rolextv.asia:443/112233/112233/62178
 https://rolextv.asia:443/112233/112233/62179
 #EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC7GK91aa3i0Veo4MouTpio5J3wsBTCF-t__qRzkzeVmm.jpg",IN | D2H SONY YAY
 https://rolextv.asia:443/112233/112233/62180
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minimax-hu.png",MINIMAX HD
-https://rolextv.asia:443/112233/112233/3015
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png",KIDSZONE HD
-https://rolextv.asia:443/112233/112233/84
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png",PLANET FUN HD
-https://rolextv.asia:443/112233/112233/85
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/9c27fc1deb420cf1ae086c66e3acaff2.png",CARTOON NETWORK HD
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/9c27fc1deb420cf1ae086c66e3acaff2.png",CARTOON NETWORK
 https://rolextv.asia:443/112233/112233/82
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/0328d353f55e8d247be6cab036b539f1.png",HOORA TV HD
-https://rolextv.asia:443/112233/112233/87
