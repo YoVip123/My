@@ -118,6 +118,9 @@ https://port.yuvraj.fun/jazz/index.m3u8?id=28880
 #EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",SONY SAB
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=559
 
+#EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-name="TARAK MEHTA KA ULTA CHASHMA" tvg-logo="https://rolextv.asia:443/images/sF5tEpdd2Lvyz1dx1JUPnRL4D3ofeeKACSP5mOFRkmCBxOIhGqd6RVwlhux24X-V.png",TARAK MEHTA KA ULTA CHASHMA
+https://rolextv.asia:443/112233/112233/78291
+
 
 #EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",StarGold HD
 http://bdix.proximitybd.xyz/vip.php?id=109959
@@ -487,7 +490,76 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=227
 
 
 
-
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC4XXteqqFGFvQye1ArqTuJRLeWGBV2QHefu6cVM8wMn9.jpg",IN | FD Dangal
+https://rolextv.asia:443/112233/112233/109148
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCx-6gx3XkYHObAL1Ae1tpyAaBcEkEzeVbEwPfF2kfwrH.jpg",IN | FD B4U MOVIES
+https://rolextv.asia:443/112233/112233/104516
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyDk205k-zrd3jqZM1qFoo5U-1k55ynKWyykC8AINlm-.jpg",IN | FD B4U KADAK
+https://rolextv.asia:443/112233/112233/104517
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC_SO2eAJFyf_ZzCYsLsyCHVp9abb2p38HkoB8d9NRgQz.jpg",IN | B4U BHOJPURI
+https://rolextv.asia:443/112233/112233/104518
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCy6pFnyU33hDNnFDLwK5WcIMrXOruVFSV--HOAF5G1_O.jpg",IN | FD Bhojpuri Cinema
+https://rolextv.asia:443/112233/112233/104519
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCxCAgP0lWCEDEO_ttSFKeqEkmncTfGhWpncgGvdDumy2.jpg",IN | FD FILAMCHI BHOJPURI
+https://rolextv.asia:443/112233/112233/104520
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQB0p0rtD4-QKRVojHAY5NGp5fUGD_WF3NLtw-pcGjWPA.png",IN | FD GOLDMINES MOVIES
+https://rolextv.asia:443/112233/112233/104521
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC1nU5PAu0V9Cy3LFZMuaiqm3mZ2jw2pAljiQXsNSUH7P.jpg",IN | FD GOLDMINES
+https://rolextv.asia:443/112233/112233/104522
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC-CJRY5xxp8gry0-5cv9pXAQlo0KkWa_0spqEuYyJPd8.jpg",IN | FD Goldmines Bollywood
+https://rolextv.asia:443/112233/112233/104523
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC-ovIA50WDNevuK3C_phYvhUzX5mGU-eve7a_F7wQyVr.jpg",IN | FD MANORANJAN TV
+https://rolextv.asia:443/112233/112233/104524
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC-ovIA50WDNevuK3C_phYvi5P7Nh-Td0lRnEgg8SslsU.jpg",IN | FD Manoranjan Movies
+https://rolextv.asia:443/112233/112233/104525
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC-ovIA50WDNevuK3C_phYvgPt4KBxBTzWgfz3YqptZGI.jpg",IN | FD Manoranjan Grand
+https://rolextv.asia:443/112233/112233/104526
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuWN05OTEbh1IDTONAap9C74RKx0owBEx_LFKXF_OKFAC.jpg",IN | D2H STAR GOLD FHD
+https://rolextv.asia:443/112233/112233/97794
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuWN05OTEbh1IDTONAap9C74RKx0owBEx_LFKXF_OKFAC.jpg",IN | TS STAR GOLD FHD
+https://rolextv.asia:443/112233/112233/97795
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuWN05OTEbh1IDTONAap9C75Dk9GpSqFhrX5TCHqqWvPR.jpg",IN | D2H STAR GOLD SELECT FHD
+https://rolextv.asia:443/112233/112233/97796
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuWN05OTEbh1IDTONAap9C75Dk9GpSqFhrX5TCHqqWvPR.jpg",IN | TS STAR GOLD SELECT FHD
+https://rolextv.asia:443/112233/112233/97797
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuWN05OTEbh1IDTONAap9C75GXu4t_b8QKRqgC2ADjrgC.jpg",IN | TS STAR GOLD 2 FHD
+https://rolextv.asia:443/112233/112233/97798
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuWN05OTEbh1IDTONAap9C75GXu4t_b8QKRqgC2ADjrgC.jpg",IN | D2H STAR GOLD 2
+https://rolextv.asia:443/112233/112233/97799
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7U0GStmrgaCBjsvOPONBiieekBqcZ_o6DAprx3hBGgHlhd36rG2vPCnpYsx77BfRZB8860gWZ2NN8rBJb_H9YbqIuabXCnyDZsqF1cBIpk7YyI746e0qyRDUntFTxrqDY.png",IN | D2H STAR GOLD ROMANCE
+https://rolextv.asia:443/112233/112233/97880
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/E55s0Ty2a9LjU7fcnVZJq2MQwpF4KbOWVLjpA1L9ATN2Rcgx77CQP-RnKC9hRMPQD_NV6daZIgYgTMJ8drILUCQK6pC3nL8xF2WmtiTY4LA.jpg",IN | D2H STAR GOLD THRILLS
+https://rolextv.asia:443/112233/112233/103385
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/E55s0Ty2a9LjU7fcnVZJq2MQwpF4KbOWVLjpA1L9ATN2Rcgx77CQP-RnKC9hRMPQD_NV6daZIgYgTMJ8drILUCQK6pC3nL8xF2WmtiTY4LA.jpg",IN | FD STAR GOLD THRILLS
+https://rolextv.asia:443/112233/112233/103386
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC3sUH-7Vu22QSdjALMU14Pwuhq3tfQ60Ovwq8sjlHzS4.jpg",IN | D2H SONY MAX FHD
+https://rolextv.asia:443/112233/112233/103387
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC3sUH-7Vu22QSdjALMU14Pwuhq3tfQ60Ovwq8sjlHzS4.jpg",IN | TS SONY MAX FHD
+https://rolextv.asia:443/112233/112233/103388
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC2arjlIgI9Zm8kYC1VVK5KYUsOKIXIvaL5eAHB_lvecZ.jpg",IN | D2H SONY MAX 2
+https://rolextv.asia:443/112233/112233/103389
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC2arjlIgI9Zm8kYC1VVK5KYUsOKIXIvaL5eAHB_lvecZ.jpg",IN | TS SONY MAX 2
+https://rolextv.asia:443/112233/112233/103390
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC9APuOiGMBnULRYv3ctxitmhM8u7F41Sn49Jr7k6mH2e.jpg",IN-FD | Sony Wah
+https://rolextv.asia:443/112233/112233/103391
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCwGepzBHzTfI8ihEfMAa-tTF_KHHDsG7BvVaFmA3a1ju.jpg",IN | D2H ZEE CINEMA FHD
+https://rolextv.asia:443/112233/112233/103392
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCwGepzBHzTfI8ihEfMAa-tTF_KHHDsG7BvVaFmA3a1ju.jpg",IN | TS ZEE CINEMA FHD
+https://rolextv.asia:443/112233/112233/103393
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC0lTBEnAAcfdaxUF2VVA8VtqsQpgFn8jIypMm8CJlexH.jpg",IN | D2H ZEE BOLLYWOOD
+https://rolextv.asia:443/112233/112233/103394
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCyeIf-WnkW5y_AyNEPGF_znPyht-wTj7UWw1jYpNTrKZ.jpg",IN | TS ZEE CLASSIC
+https://rolextv.asia:443/112233/112233/103395
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="http://b1g.fun/logos2/zee_anmolcinema.jpg",IN-FD | Zee Anmol Cinema
+https://rolextv.asia:443/112233/112233/103396
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRYlI2ysBDzBaCIKHjydDOwiKXcg6t6V9BhpG42PvILmA.png",IN-FD | Zee Anmol Cinema 2
+https://rolextv.asia:443/112233/112233/103397
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCz2JZKAXD5W0Rc_4dHGtWc30wOxQO3YNHUboeoDawg7G.jpg",IN | D2H & PICTURES FHD
+https://rolextv.asia:443/112233/112233/103398
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKCz2JZKAXD5W0Rc_4dHGtWc30wOxQO3YNHUboeoDawg7G.jpg",IN | TS & PICTURES FHD
+https://rolextv.asia:443/112233/112233/103399
+#EXTINF:-1 group-title="MovieFHD-" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC8ljsaSYy-jU9m7wt0-ILdMafUjSIC7jOFo7vC2s5ptH.jpg",IN | FD STAR UTSAV MOVIES
+https://rolextv.asia:443/112233/112233/109100
 
 
 #EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7uIPVNOThBgUbXW7ZhTu6BAV8sTfu49trhTvMGhB-3EIEi6vEhAGfa50wrDZW04Mw0dCB5sbhL9n-SuvUIz_a5A.png",DISNEY INTERNATIONAL FHD
