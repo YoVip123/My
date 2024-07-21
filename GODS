@@ -111,6 +111,8 @@ https://port.yuvraj.fun/jazz/index.m3u8?id=28880
 
 
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=559
 #EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",SONY SAB
@@ -479,3 +481,54 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=117
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=227
 #EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",Fashion TV
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=227
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7uIPVNOThBgUbXW7ZhTu6BAV8sTfu49trhTvMGhB-3EIEi6vEhAGfa50wrDZW04Mw0dCB5sbhL9n-SuvUIz_a5A.png",DISNEY INTERNATIONAL FHD
+https://rolextv.asia:443/112233/112233/78280
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png",IN | TS DISNEY CHANNEL FHD (ENG)
+https://rolextv.asia:443/112233/112233/78281
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png",IN | TS DISNEY CHANNEL FHD (HINDI)
+https://rolextv.asia:443/112233/112233/78282
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuQXPztvjIPd_gDZVnTYmy-Br1UH5OvYaK_K69el-9ME3.jpg",IN | TS CARTOON NETWORK HD+ (ENG)
+https://rolextv.asia:443/112233/112233/78287
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuQXPztvjIPd_gDZVnTYmy-Br1UH5OvYaK_K69el-9ME3.jpg",IN | TS CARTOON NETWORK HD+ (HINDI)
+https://rolextv.asia:443/112233/112233/78288
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC9KWdMoHmeouKa0VTvsbFK42RDgLpI-AXZr6cuSVD3Ch.jpg",IN | D2H HUNGAMA TV
+https://rolextv.asia:443/112233/112233/62169
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC1ZQ7FgowOWatmToB4ALxLk.jpg",IN | D2H POGO HINDI
+https://rolextv.asia:443/112233/112233/62171
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC6IsGAm_jIIX_PYGEXDRyQ34Pu0eOaxpyGxtUFtY7LiF.jpg",IN | D2H CARTOON NETWORK HINDI
+https://rolextv.asia:443/112233/112233/62172
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC1fDVAd3_JsXpzghMFD_AYUbWZZgpb7Ij7BRtQxpWIMg.jpg",IN | D2H DISNEY JUNIOR
+https://rolextv.asia:443/112233/112233/62173
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC019agmmuQrzWaz61jLlBSaP6eimLCfLSAaAHeUq5m8C.jpg",IN | D2H DISNEY CHANNEL
+https://rolextv.asia:443/112233/112233/62174
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC_ug0ge3RgfsoQv4LzzSwPY.jpg",IN | D2H NICK HINDI
+https://rolextv.asia:443/112233/112233/62175
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC_j6ars4byYjfEGe8z0Hk51nx3eKYY83-EFc56lQauKb.jpg",IN | D2H NICK+ FHD ENGLISH
+https://rolextv.asia:443/112233/112233/62176
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC28TsqdWKLXOFgR-LBOxiFtGtEuB3AvPAieUngVna7QA.jpg",IN | D2H NICK JR HINDI
+https://rolextv.asia:443/112233/112233/62177
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC28TsqdWKLXOFgR-LBOxiFtGtEuB3AvPAieUngVna7QA.jpg",IN | D2H NICK JUNIOR ENG
+https://rolextv.asia:443/112233/112233/62178
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC-53wSDON4kVxalhwvqUW4sp0WigiXW2IDtz31mRp9pu.jpg",IN | D2H SONIC HINDI
+https://rolextv.asia:443/112233/112233/62179
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC7GK91aa3i0Veo4MouTpio5J3wsBTCF-t__qRzkzeVmm.jpg",IN | D2H SONY YAY
+https://rolextv.asia:443/112233/112233/62180
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minimax-hu.png",MINIMAX HD
+https://rolextv.asia:443/112233/112233/3015
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png",KIDSZONE HD
+https://rolextv.asia:443/112233/112233/84
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png",PLANET FUN HD
+https://rolextv.asia:443/112233/112233/85
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/9c27fc1deb420cf1ae086c66e3acaff2.png",CARTOON NETWORK HD
+https://rolextv.asia:443/112233/112233/82
+#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/0328d353f55e8d247be6cab036b539f1.png",HOORA TV HD
+https://rolextv.asia:443/112233/112233/87
