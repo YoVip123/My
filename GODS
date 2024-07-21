@@ -4,6 +4,8 @@ http://prod-ent-live-gm.jiocinema.com/hls/live/2105483/hd_akamai_androidmob_avc_
 #EXTINF:-1 tvg-id="762" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/16x9-1718960176144.jpg" group-title="Big Boss",Big Boss 4K
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_bbhindi_day01/master.m3u8
 
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD (STAR)
+http://starshare.live:8080/live/irfan/irfan/19741.ts
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD
 http://port.denver1769.in/dd.php?tv=634
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD v1
