@@ -125,7 +125,7 @@ https://rolextv.asia:443/112233/112233/78291
 
 
 #EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",StarGold HD
-http://bdix.proximitybd.xyz/vip.php?id=109959
+http://xtv.ooo:8080/773199/626227/109959
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=503
@@ -487,6 +487,8 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=117
 #EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",Fashion TV
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=227
 
+#EXTINF:-1 group-title="EXTRA- DISCOVERY 🌍" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC Earth HD
+http://xtv.ooo:8080/773199/626227/109978
 
 
 
