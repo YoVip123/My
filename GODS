@@ -8,12 +8,14 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2105483/uhd_akamai_atv_avc_24x7_
 
 
 
-#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD HINDI
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD MULTI
 https://saini099.github.io/PE/DisneyHD.m3u8
-#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD v1 HINDI
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD HINDI
 https://rolextv.asia:443/112233/112233/78282
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD ENG
 https://rolextv.asia:443/112233/112233/78281
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.postimg.cc/Y9BX0RMD/CC-20240612-182714.png",DISNEY HD ENG V1
+https://rolextv.asia:443/112233/112233/62174
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,dpr_6.75,w_40/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY SD (AIRTEL)
 https://tgaadi-web.tech/portal.php?tv=156000
@@ -31,8 +33,8 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=119
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",Disney Junior
 https://rolextv.asia:443/112233/112233/62173
 
-#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",Nick HD+
-https://rolextv.asia:443/112233/112233/62176
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",Pogo
+https://rolextv.asia:443/112233/112233/62171
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",Nick
 https://rolextv.asia:443/112233/112233/62175
@@ -48,9 +50,14 @@ http://xtv.ooo:8080/773199/626227/150480
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network HD+ (TATA)
 https://rolextv.asia:443/112233/112233/62172
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network HD+
+https://rolextv.asia:443/112233/112233/78288
 
-#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network (AIRTEL)
 http://xtv.ooo:8080/3116580700/0700/150478
+#EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",Cartoon Network
+https://rolextv.asia:443/112233/112233/82
+
 
 #EXTINF:-1 group-title="ANIME TESTING" tvg-logo="https://i.ibb.co/pw4H2jt/CC-20221111-202941.pnghttps://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG",HUNGAMA TV (TATA)
 https://rolextv.asia:443/112233/112233/62169
@@ -528,34 +535,8 @@ https://rolextv.asia:443/112233/112233/103398
 https://rolextv.asia:443/112233/112233/103399
 
 
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7uIPVNOThBgUbXW7ZhTu6BAV8sTfu49trhTvMGhB-3EIEi6vEhAGfa50wrDZW04Mw0dCB5sbhL9n-SuvUIz_a5A.png",DISNEY INTERNATIONAL FHD
-https://rolextv.asia:443/112233/112233/78280
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png",IN | TS DISNEY CHANNEL FHD (ENG)
-https://rolextv.asia:443/112233/112233/78281
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png",IN | TS DISNEY CHANNEL FHD (HINDI)
-https://rolextv.asia:443/112233/112233/78282
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/79GH9ntwlFJ-1AEI0T1EuQXPztvjIPd_gDZVnTYmy-Br1UH5OvYaK_K69el-9ME3.jpg",IN | TS CARTOON NETWORK HD+ (HINDI)
-https://rolextv.asia:443/112233/112233/78288
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC9KWdMoHmeouKa0VTvsbFK42RDgLpI-AXZr6cuSVD3Ch.jpg",IN | D2H HUNGAMA TV
-https://rolextv.asia:443/112233/112233/62169
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC1ZQ7FgowOWatmToB4ALxLk.jpg",IN | D2H POGO HINDI
-https://rolextv.asia:443/112233/112233/62171
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC6IsGAm_jIIX_PYGEXDRyQ34Pu0eOaxpyGxtUFtY7LiF.jpg",IN | D2H CARTOON NETWORK HINDI
-https://rolextv.asia:443/112233/112233/62172
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/9c27fc1deb420cf1ae086c66e3acaff2.png",CARTOON NETWORK
-https://rolextv.asia:443/112233/112233/82
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC1fDVAd3_JsXpzghMFD_AYUbWZZgpb7Ij7BRtQxpWIMg.jpg",IN | D2H DISNEY JUNIOR
-https://rolextv.asia:443/112233/112233/62173
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC019agmmuQrzWaz61jLlBSaP6eimLCfLSAaAHeUq5m8C.jpg",IN | D2H DISNEY CHANNEL
-https://rolextv.asia:443/112233/112233/62174
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC_ug0ge3RgfsoQv4LzzSwPY.jpg",IN | D2H NICK HINDI
-https://rolextv.asia:443/112233/112233/62175
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC28TsqdWKLXOFgR-LBOxiFtGtEuB3AvPAieUngVna7QA.jpg",IN | D2H NICK JR HINDI
-https://rolextv.asia:443/112233/112233/62177
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC-53wSDON4kVxalhwvqUW4sp0WigiXW2IDtz31mRp9pu.jpg",IN | D2H SONIC HINDI
-https://rolextv.asia:443/112233/112233/62179
-#EXTINF:-1 group-title="TP KIDS" tvg-logo="https://rolextv.asia:443/images/HjUNyHDk1GXCeTnp_TSKC7GK91aa3i0Veo4MouTpio5J3wsBTCF-t__qRzkzeVmm.jpg",IN | D2H SONY YAY
-https://rolextv.asia:443/112233/112233/62180
+
+
 
 
 
