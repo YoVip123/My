@@ -127,6 +127,9 @@ https://rolextv.asia:443/112233/112233/62215
 
 
 
+#EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://assets.airtel.in/static-assets/cms/dth-images/digital-tv-airtel-specials-logo/Miniplex_SD_300x113.png",MiniPlex HD
+https://port.yuvraj49.in/xegd/master.m3u8?id=5058
+
 #EXTINF:-1 group-title="EXTRA- MOVIE🍿" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",StarGold HD
 http://xtv.ooo:8080/773199/626227/109959
 
