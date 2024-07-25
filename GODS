@@ -106,16 +106,14 @@ https://port.yuvraj.fun/jazz/index.m3u8?id=28880
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=559
-#EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",SONY SAB
-https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=559
+#EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss6clZh1pN1XzDVsnJlf9-MMRIY0cOpllNQ&usqp=CAU",TARAK MEHTA OLD
+https://port.yuvraj49.in/xegd/master.m3u8?id=5001
+
+#EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss6clZh1pN1XzDVsnJlf9-MMRIY0cOpllNQ&usqp=CAU",TARAK MEHTA LATEST
+https://rolextv.asia:443/112233/112233/78291
 
 #EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
 https://rolextv.asia:443/112233/112233/62190
-
-#EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-name="TARAK MEHTA KA ULTA CHASHMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss6clZh1pN1XzDVsnJlf9-MMRIY0cOpllNQ&usqp=CAU",TARAK MEHTA KA ULTA CHASHMA
-https://rolextv.asia:443/112233/112233/78291
 
 #EXTINF:-1 group-title="EXTRA- SERIALS⭐" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",SONY PAL HD
 https://rolextv.asia:443/112233/112233/62217
